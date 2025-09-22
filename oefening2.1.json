@@ -1,0 +1,20 @@
+[
+    { 
+        "studentenNummer": 102390,
+        "studentenNaam": "Guusje",
+        "vakken": [
+            "ENGELS.2",
+            "REKENEN.2",
+            "NEDERLANDS.2",
+            "SCRIPTING.2",
+            "CREACOD.2",
+            "INTERFACE.2"
+        ],
+        "vrienden": [
+            "Soufyan",
+            "Salah",
+            "Fabian",
+            "Nassim"
+        ]
+    }
+]
